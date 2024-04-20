@@ -1,0 +1,12 @@
+[
+    {
+        "id":1,
+        "titulo":"CCR2 VIEJO",
+        "link": "http://161.0.72.2:91/graphs/iface/Bonding%20CCR1/daily.gif"
+    },
+    {
+        "id":2,
+        "titulo":"CCR2 NUEVO",
+        "link": "http://161.0.72.6:91/graphs/iface/Bonding%20CRS%20317/daily.gif"
+    }
+]

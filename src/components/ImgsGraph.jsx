@@ -1,14 +1,12 @@
 import graficas from "../data/graficas.json"
+import ComponentGraph from "./ComponentGraph"
 
 const ImgsGraph = () => {
     return (
-        <div>
+        <div className="container">
             {
                 graficas.map((item, index)=>(
-                    <div key={index}>
-                        <h2>{item.titulo}</h2>
-                        <img src={item.link} />
-                    </div>
+                    <ComponentGraph key={index} titulo={item.titulo} link={item.link} />
                 ))
             }
         </div>

@@ -66,3 +66,41 @@ button:focus-visible {
     background-color: #f9f9f9;
   }
 }
+
+.componentGraph{
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  align-items: center;
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+.imgGraph{
+  width: 400px;
+}
+
+.modalImg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+  width: 100%;
+  flex-direction: column;
+}
+
+.imgModal{
+  width: 60%;
+  height: 60%;
+}
+
+.botonCerrarModal{
+  width: 48%;
+  margin-left: 150px;
+  background-color: #b81c1c;
+  color: white;
+}

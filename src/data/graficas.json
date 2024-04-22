@@ -56,11 +56,6 @@
         "link": "http://161.0.72.6:91/graphs/iface/sfp2/daily.gif"
     },
     {
-        "id":11,
-        "titulo":"PLANEADORES",
-        "link": "http://161.0.72.6:91/graphs/iface/sfp2/daily.gif"
-    },
-    {
         "id":13,
         "titulo":"AYACUCHO",
         "link": "http://161.0.75.129:91/graphs/iface/sfp4%20AYACUCHO/daily.gif"
@@ -81,6 +76,26 @@
         "link": "http://161.0.72.225:91/graphs/iface/ether10%20Claro/daily.gif"
     },
     {
+        "id":12,
+        "titulo":"LAUGE FIBRA",
+        "link": "http://161.0.73.1:91/graphs/iface/ether2%20FIBRA/daily.gif"
+    },
+    {
+        "id":20,
+        "titulo":"ENLACE ARROYO 11X",
+        "link": "http://200.80.131.117:91/graphs/iface/vlan10%20Oficina/daily.gif"
+    },
+    {
+        "id":18,
+        "titulo":"LAUGE GENERAL",
+        "link": "http://190.112.219.203:91/graphs/iface/ether6%20Netonix/daily.gif"
+    },
+    {
+        "id":22,
+        "titulo":"LAUGE ENLACE OFICINA",
+        "link": "http://161.0.73.1:91/graphs/iface/vlan10%20Enlace/daily.gif"
+    },
+    {
         "id":17,
         "titulo":"BRISANOVA",
         "link": "http://161.0.72.6:91/graphs/iface/vlan130%20Brisanova/daily.gif"
@@ -94,6 +109,11 @@
         "id":21,
         "titulo":"LA CAROLINA",
         "link": "http://161.0.72.6:91/graphs/iface/vlan101%20LA%20CAROLINA/daily.gif"
+    },
+    {
+        "id":37,
+        "titulo":"ALVAREZ",
+        "link": "http://161.0.72.2:91/graphs/iface/vlan119%20Alvarez/daily.gif"
     },
     {
         "id":23,
@@ -166,33 +186,8 @@
         "link": "http://161.0.72.2:91/graphs/iface/vlan109%20PANEL%2023d/daily.gif"
     },
     {
-        "id":37,
-        "titulo":"ALVAREZ",
-        "link": "http://161.0.72.2:91/graphs/iface/vlan119%20Alvarez/daily.gif"
-    },
-    {
         "id":38,
         "titulo":"PANEL 25CVGG",
         "link": "http://161.0.72.2:91/graphs/iface/vlan%20125cvgg%20/daily.gif"
-    },
-    {
-        "id":12,
-        "titulo":"LAUGE FIBRA",
-        "link": "http://161.0.73.1:91/graphs/iface/ether2%20FIBRA/daily.gif"
-    },
-    {
-        "id":20,
-        "titulo":"ENLACE ARROYO 11X",
-        "link": "http://200.80.131.117:91/graphs/iface/vlan10%20Oficina/daily.gif"
-    },
-    {
-        "id":18,
-        "titulo":"LAUGE GENERAL",
-        "link": "http://190.112.219.203:91/graphs/iface/ether6%20Netonix/daily.gif"
-    },
-    {
-        "id":22,
-        "titulo":"LAUGE ENLACE OFICINA",
-        "link": "http://161.0.73.1:91/graphs/iface/vlan10%20Enlace/daily.gif"
     }
 ]

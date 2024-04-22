@@ -104,3 +104,12 @@ button:focus-visible {
   background-color: #b81c1c;
   color: white;
 }
+
+@media(max-width: 450px){
+  .imgGraph{
+    width: 300px;
+  }
+  .tituloh2{
+    font-size: 20px;
+  }
+}

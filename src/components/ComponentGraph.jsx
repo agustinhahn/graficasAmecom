@@ -24,7 +24,7 @@ const ComponentGraph = ({titulo, link}) => {
 
     return (
         <div className='componentGraph'>
-            <h2>{titulo}</h2>
+            <h2 className='tituloh2'>{titulo}</h2>
             <img className='imgGraph' onClick={openModal} src={link} alt='imagen' onError={handleImageError}/>
             <Modal isOpen={modalIsOpen} onRequestClose={closeModal} className="modalImg">
                 <img src={link} alt="Imagen" className='imgModal' />
